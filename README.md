@@ -26,5 +26,17 @@ A Python CLI tool to check if a website uses HTTPS and whether all external reso
 ### 1. Clone the repository
 
 ```bash
+https://github.com/Aditi-Rani/https-checker
+```
+```bash
 cd https-checker
+```
+
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3. Run the script
+```bash
+python https_checker.py
 ```
